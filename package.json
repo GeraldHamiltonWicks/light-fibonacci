@@ -1,0 +1,19 @@
+{
+  "name": "light-fibonacci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldHamiltonWicks/light-fibonacci.git"
+  },
+  "author": "geraldhamiltonwicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeraldHamiltonWicks/light-fibonacci/issues"
+  },
+  "homepage": "https://github.com/GeraldHamiltonWicks/light-fibonacci#readme",
+  "description": ""
+}
