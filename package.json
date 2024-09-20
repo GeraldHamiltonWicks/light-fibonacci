@@ -1,7 +1,8 @@
 {
   "name": "light-fibonacci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +15,6 @@
   "bugs": {
     "url": "https://github.com/GeraldHamiltonWicks/light-fibonacci/issues"
   },
-  "homepage": "https://github.com/GeraldHamiltonWicks/light-fibonacci#readme",
+  "homepage": "https://github.com/GeraldHamiltonWicks/light-fibonacci",
   "description": ""
 }

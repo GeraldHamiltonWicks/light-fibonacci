@@ -1,0 +1,1 @@
+export function fibonacci(r){const n=[0,1,1];if(r<=0)throw new Error(`${r} should be bigger than 0.`);if(r<=3)return n[r-1];for(let o=3;o<r;o++)n[0]=n[1],n[1]=n[2],n[2]=n[0]+n[1];return n[2]}
