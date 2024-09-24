@@ -2,8 +2,6 @@
 
 Light Fibonacci is a simple JavaScript utility for calculating Fibonacci numbers. This package provides a straightforward function that can be easily integrated into your projects.
 
-Sure! Here's a suggested index for the README file, which organizes the content for easier navigation.
-
 ## Index
 
 1. [Installation](#installation)
