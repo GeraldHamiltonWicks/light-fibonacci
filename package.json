@@ -1,20 +1,14 @@
 {
   "name": "light-fibonacci",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GeraldHamiltonWicks/light-fibonacci.git"
   },
   "author": "geraldhamiltonwicks",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/GeraldHamiltonWicks/light-fibonacci/issues"
-  },
   "homepage": "https://github.com/GeraldHamiltonWicks/light-fibonacci",
-  "description": ""
+  "description": "Simple JavaScript utility for calculating Fibonacci numbers."
 }
